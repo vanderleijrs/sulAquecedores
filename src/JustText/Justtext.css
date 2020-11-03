@@ -1,0 +1,12 @@
+.espacamento{
+    margin-left: 20px;
+}
+h2{
+    color:#000000;
+}
+hr{
+    width: 5%;
+    border: 2px solid #f00;
+    border-color: #ff0000;
+    margin-left: 0px;
+}
