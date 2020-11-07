@@ -9,7 +9,7 @@ import App from './App';
 //import Benefits from './components/Benefits/index';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter  basename={process.env.PUBLIC_URL}>
       <Switch>
            <Route path="/" exact={true} component={App}  />
           {/*<Route path="./contato" component={Footer}  />
