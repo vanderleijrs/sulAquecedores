@@ -2,7 +2,8 @@ import react from 'react'
 import carrinhoCompras from'../Images/carrinhoCompras.png'
 function FolderSquare(){
     return(
-        <div className="foldersquare">
+        <div></div>
+  /*       <div className="foldersquare">
             <div className="square">
                 <img>{carrinhoCompras}</img>
                 <hr/>
@@ -23,7 +24,7 @@ function FolderSquare(){
                 <hr/>
                 <p>{}</p>
             </div>
-        </div>
+        </div> */
     )
 }
 export default FolderSquare
