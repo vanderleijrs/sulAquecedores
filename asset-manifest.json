@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sulAquecedores/static/css/main.09842fcd.chunk.css",
+    "main.js": "/sulAquecedores/static/js/main.82707f13.chunk.js",
+    "main.js.map": "/sulAquecedores/static/js/main.82707f13.chunk.js.map",
+    "runtime-main.js": "/sulAquecedores/static/js/runtime-main.e915c090.js",
+    "runtime-main.js.map": "/sulAquecedores/static/js/runtime-main.e915c090.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/sulAquecedores/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a9b1ca8b.chunk.js": "/sulAquecedores/static/js/2.a9b1ca8b.chunk.js",
+    "static/js/2.a9b1ca8b.chunk.js.map": "/sulAquecedores/static/js/2.a9b1ca8b.chunk.js.map",
+    "index.html": "/sulAquecedores/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/sulAquecedores/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.09842fcd.chunk.css.map": "/sulAquecedores/static/css/main.09842fcd.chunk.css.map",
+    "static/js/2.a9b1ca8b.chunk.js.LICENSE.txt": "/sulAquecedores/static/js/2.a9b1ca8b.chunk.js.LICENSE.txt",
+    "static/media/Aquecedores.2e51e826.jpg": "/sulAquecedores/static/media/Aquecedores.2e51e826.jpg",
+    "static/media/ClimatizadoresJoape.27aa8201.jpg": "/sulAquecedores/static/media/ClimatizadoresJoape.27aa8201.jpg",
+    "static/media/logo-sul-Aquecedores.78d7295f.png": "/sulAquecedores/static/media/logo-sul-Aquecedores.78d7295f.png",
+    "static/media/manutencaoAquecedores.c3c1cc1a.jpg": "/sulAquecedores/static/media/manutencaoAquecedores.c3c1cc1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e915c090.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.a9b1ca8b.chunk.js",
+    "static/css/main.09842fcd.chunk.css",
+    "static/js/main.82707f13.chunk.js"
+  ]
+}
